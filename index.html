@@ -1,17 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+    .nav-bar{
+        display: flex;
+        flex-direction: row;
+        justify-content:flex-start;
+        border-bottom: 1px solid grey;
+        margin-bottom: 25px
+    }
+    
+    
+    .nav-bar > .search {
+        margin-left: auto;
+	
+}
+    .videoSidebar{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content:flex-end;
+     
+    }
+    .sidebar > img {
+        height: 150px;
+        padding-left: 200px;
+      
+    }
+    
+    
+</style>
+
+
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
 </head>
 <body>
 	<section class="nav-bar">
-		<img src="images/menu.png">
-		<img src="images/logo.jpg">
-		<input type="text" name="search" placeholder="search">
+		<img src="images/menu.png" style="height:40px">
+		<img src="images/logo.png" style="height:60px">
+        <div style="height:50px margin:0" class="search"><input type="text" name="search" placeholder="Search" style="height:30px; width:600px; font-size:20px; padding-left:20px;"><input  style="height:41px; "type="submit" value='Submit'/></div>
 	</section>
+	
+	<div class="videoSidebar">
 	<section class="video">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnuwB35GYMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="640" height="360" src="https://www.youtube.com/embed/ZnuwB35GYMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		<h1>Thomas Suarez</h1>
 		<p>12 year old  developer made 1000000 $,see he s app</p>
 		<p>300 000 views</p>
@@ -22,6 +55,6 @@
 		<img src="images/thumb3.jpg">
 		<img src="images/thumb4.jpg">
 	</section>
-
+</div>
 </body>
 </html>
