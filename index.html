@@ -1,59 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-    .nav-bar{
-        display: flex;
-        flex-direction: row;
-        justify-content:flex-start;
-        border-bottom: 1px solid grey;
-        margin-bottom: 25px
-    }
-    
-    
-    .nav-bar > .search {
-        margin-left: auto;
-	
-}
-    .videoSidebar{
-        display: flex;
-        width: 100%;
-        flex-direction: row;
-        justify-content:flex-end;
-     
-    }
-    .sidebar > img {
-        height: 150px;
-        padding-left: 200px;
-      
-    }
-    
-    
-</style>
 
 
 <head>
+
+
+
 	<meta charset="UTF-8">
+	 <meta name='viewport' content='width=device-width,initial-scale=1'>
+	<link rel="stylesheet" href="style.css">
 	<title>Document</title>
 </head>
 <body>
 	<section class="nav-bar">
-		<img src="images/menu.png" style="height:40px">
-		<img src="images/logo.png" style="height:60px">
-        <div style="height:50px margin:0" class="search"><input type="text" name="search" placeholder="Search" style="height:30px; width:600px; font-size:20px; padding-left:20px;"><input  style="height:41px; "type="submit" value='Submit'/></div>
+		<img src="images/menu.png" class="menu" alt="menu">
+		<img src="images/logo.png" class="logo" alt="logo">
+        <div class="search">
+        <input type="text" name="search" placeholder="Search" >
+       <button> <img src="images/search.png" alt="search" class="iconSearch"></button>
+       </div>
+    
 	</section>
 	
 	<div class="videoSidebar">
 	<section class="video">
-		<iframe width="640" height="360" src="https://www.youtube.com/embed/ZnuwB35GYMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<h1>Thomas Suarez</h1>
-		<p>12 year old  developer made 1000000 $,see he s app</p>
+		<iframe width="640" height="360" src="https://www.youtube.com/embed/ZnuwB35GYMY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<h1 style="line-height: 40px;">Thomas Suarez</h1>
+		<p style="line-height: 38px;">12 year old  developer made 1000000 $,see he s app</p>
 		<p>300 000 views</p>
 	</section>
 	<section class="sidebar">
-		<img src="images/thumb1.jpg">
-		<img src="images/thumb2.jpg">
-		<img src="images/thumb3.jpg">
-		<img src="images/thumb4.jpg">
+	
+	<div class="thumbWrap">
+        <img src="images/thumb1.jpg" alt="thumbnail">
+	    <div class='textWrap'>
+	            <h1>How Blockchain</h1>
+		        <p>Tedx Talks</p>
+		        <p>300K views</p>
+	    </div> 
+	</div>
+	
+	<div class="thumbWrap">
+        <img src="images/thumb2.jpg" alt="thumbnail">
+	    <div class='textWrap'>
+	            <h1>15-Yr-Old Kelvin Doe Wows</h1>
+		        <p >THINKR</p>
+		        <p>15M views</p>
+	    </div> 
+	</div>
+	<div class="thumbWrap">
+        <img src="images/thumb3.jpg" alt="thumbnail">
+	    <div class='textWrap'>
+	            <h1>3year-Old Globe Expert Noah </h1>
+		        <p>TheEllenShow</p>
+		        <p>3K views</p>
+	    </div> 
+	</div>
+	<div class="thumbWrap">
+        <img src="images/thumb4.jpg" alt="thumbnail">
+	    <div class='textWrap'>
+	            <h1>Elon Musk: How To Achieve 10X More Than Your Peers</h1>
+		        <p>Charisma</p>
+		        <p>3M views</p>
+	    </div> 
+	</div>
 	</section>
 </div>
 </body>
