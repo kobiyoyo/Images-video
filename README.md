@@ -23,14 +23,14 @@ That means two things – embedding the YouTube video player into the page so it
 -  [Github](https://github.com/kobiyoyo)
 -  [Twitter](https://twitter.com/_kobiyoyo)
 -  [Linkedin](https://www.linkedin.com/in/chubiyojo-adama/)
--  [Email](adamachubi@gmail.com)
+-  [Email](mailto:adamachubi@gmail.com)
 
 👤 **Danilo Zagarcanin**
 
 - [Github](https://github.com/danilozag1992)
 - [Twitter](https://twitter.com/danilo96061514)
 - [Linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
-- [Email](danilozagarcanin@gmail.com)
+- [Email](mailto:danilozagarcanin@gmail.com)
 
 ## 🤝 Contributing
 
