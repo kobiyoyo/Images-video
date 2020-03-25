@@ -1,4 +1,3 @@
-
 # Embedding Images and Video
 The goal of this project is to produce an exact replica of the YouTube video page, but to focus on making the media elements show up.
 That means two things – embedding the YouTube video player into the page so it actually plays and showing little thumbnail images along the right side.
@@ -6,6 +5,12 @@ That means two things – embedding the YouTube video player into the page so it
 ## Screenshot
 
 ![screenshot](images/screenshot.png) 
+
+## Technologies
+
+- HTML 
+- CSS
+
 
 ## Live Demo
 
@@ -15,15 +20,17 @@ That means two things – embedding the YouTube video player into the page so it
 
 👤 **Adama Chubiyojo Desmond**
 
-- Github: [@kobiyoyo](https://github.com/kobiyoyo)
-- Twitter: [@_kobiyoyo](https://twitter.com/_kobiyoyo)
-- Linkedin: [Chubiyojo Desmond Adama](https://www.linkedin.com/in/chubiyojo-adama/)
+-  [Github](https://github.com/kobiyoyo)
+-  [Twitter](https://twitter.com/_kobiyoyo)
+-  [Linkedin](https://www.linkedin.com/in/chubiyojo-adama/)
+-  [Email](adamachubi@gmail.com)
 
 👤 **Danilo Zagarcanin**
 
-- Github: [@danilozag](https://github.com/danilozag1992)
-- Twitter: [@danilozag](https://twitter.com/danilo96061514)
-- Linkedin: [danilozag](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+- [Github](https://github.com/danilozag1992)
+- [Twitter](https://twitter.com/danilo96061514)
+- [Linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+- [Email](danilozagarcanin@gmail.com)
 
 ## 🤝 Contributing
 
