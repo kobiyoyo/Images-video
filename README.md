@@ -9,15 +9,15 @@ That means two things – embedding the YouTube video player into the page so it
 
 👤 **Adama Chubiyojo Desmond**
 
-- Github: [@githubhandle](https://github.com/kobiyoyo)
-- Twitter: [@twitterhandle](https://twitter.com/_kobiyoyo)
-- Linkedin: [linkedin](https://www.linkedin.com/in/chubiyojo-adama/)
+- Github: [@kobiyoyo](https://github.com/kobiyoyo)
+- Twitter: [@_kobiyoyo](https://twitter.com/_kobiyoyo)
+- Linkedin: [Chubiyojo Desmond Adama](https://www.linkedin.com/in/chubiyojo-adama/)
 
 👤 **Danilo Zagarcanin**
 
-- Github: [@githubhandle](https://github.com/danilozag1992)
-- Twitter: [@twitterhandle](https://twitter.com/danilo96061514)
-- Linkedin: [linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+- Github: [@danilozag](https://github.com/danilozag1992)
+- Twitter: [@danilozag](https://twitter.com/danilo96061514)
+- Linkedin: [danilozag](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
 
 ## 🤝 Contributing
 
